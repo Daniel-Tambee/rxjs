@@ -1,0 +1,11 @@
+###
+
+POST http://localhost:3000/greeting
+content-type: application/json
+
+{
+    "uid": 3,
+    "text": "Sed dolor"
+}
+
+###
